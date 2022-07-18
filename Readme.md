@@ -6,7 +6,7 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=gauravshankarkumar&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=passionatepriya&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-Do something helpful society-blue" />
